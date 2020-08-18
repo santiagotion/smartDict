@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>23903648296-6gv2ivhdv79m8gomhv3af12kcs1u1h1h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.23903648296-6gv2ivhdv79m8gomhv3af12kcs1u1h1h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAp-TCjj0oX6WXDeJmOvxQFcm2hWCXQuhM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23903648296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nathantuala.smartDict</string>
+	<key>PROJECT_ID</key>
+	<string>smartdictionary-8cd09</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartdictionary-8cd09.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23903648296:ios:b28047cb0526e840b3131d</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartdictionary-8cd09.firebaseio.com</string>
+</dict>
+</plist>
